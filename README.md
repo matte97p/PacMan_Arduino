@@ -50,7 +50,6 @@ Ensure you have the following software installed:
 - Launch Arduino IDE.
 - Navigate to `File` -> `Open...` and select `PacMan_Adafruit` from the cloned repository.
 
-
 3. **Install necessary libraries:**
 - In Arduino IDE, go to Sketch -> Include Library -> Manage Libraries.
 - Search for "Adafruit GFX" and "Adafruit SSD1306" and install them.
